@@ -1,4 +1,10 @@
 # Sentiment_analysis_with_nlp
+**COMPANY NAME** : CODTECH IT SOLUTIONS
+**NAME** : DASARI YASASWINI
+**INTERN ID** : CT06DL1175
+**DOMAIN** : MACHINE LEARNING
+**DURATION** : 6 WEEKS
+**MENTOR** : NEELA SANTOSH
 📌 Sentiment Analysis with NLP – Internship Task-2 (CODTECH)
 This project is part of my internship at CODTECH, focused on performing Sentiment Analysis using Natural Language Processing (NLP) techniques. The task involves classifying customer reviews as positive or negative using TF-IDF vectorization and Logistic Regression.
 
